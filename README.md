@@ -2,8 +2,6 @@
 
 ### 🚀 AI/ML Enthusiast | Backend Developer | Problem Solver
 
-![Header Image](https://github.com/embrake/Electrus/blob/main/header.png?raw=true) <!-- Replace with your actual header image URL -->
-
 ---
 
 ## 🔥 About Me
@@ -137,7 +135,7 @@ I love meeting new people in the tech community! Whether you want to collaborate
 
 ## 💡 Fun Fact
 
-When I'm not coding, I enjoy [Your Hobby/Interest]!
+When I'm not coding, I enjoy [Listening Music]!
 
 ---
 
