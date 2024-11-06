@@ -87,16 +87,6 @@ I'm **Pawan Kumar**, a passionate **AI/ML enthusiast** and **backend developer**
 
 ---
 
-## 🏆 Achievements
-
-*(Add this section if you have notable achievements)*
-
-- **Top Performer** in Python Programming at Manav Rachna University
-- **Winner** of the 2023 University Hackathon for developing an AI-powered web application
-- **Contributor** to open-source projects like Electrus and various AI/ML repositories
-
----
-
 ## 🌱 Always Growing, Always Learning
 
 As a first-year student, I’m just getting started, and there’s no limit to where I can go! Every day is a chance to learn something new, write better code, and turn complex problems into elegant solutions.
