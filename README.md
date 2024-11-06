@@ -103,16 +103,6 @@ I love meeting new people in the tech community! Whether you want to collaborate
 
 ---
 
-## 📝 Latest Blog Posts
-
-*(Optional: If you maintain a blog, you can list your latest posts here)*
-
-- [Understanding NoSQL Databases: A Deep Dive](#)
-- [Building Scalable Backend Systems with Django](#)
-- [Introduction to Neural Networks and Their Applications](#)
-
----
-
 ## 💡 Fun Fact
 
 When I'm not coding, I enjoy [Listening Music]!
