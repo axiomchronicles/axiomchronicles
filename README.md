@@ -87,16 +87,6 @@ I'm **Pawan Kumar**, a passionate **AI/ML enthusiast** and **backend developer**
 
 ---
 
-## 📚 Learning & Certifications
-
-*(Add this section if you have relevant certifications or courses completed)*
-
-- **[Certified Python Developer](#)** – Issued by [Certification Authority](#)
-- **[Machine Learning Specialization](#)** – [Coursera](https://www.coursera.org/specializations/machine-learning)
-- **[Web Development Bootcamp](#)** – [Udemy](https://www.udemy.com/course/web-development-bootcamp)
-
----
-
 ## 🏆 Achievements
 
 *(Add this section if you have notable achievements)*
@@ -117,8 +107,8 @@ As a first-year student, I’m just getting started, and there’s no limit to w
 
 I love meeting new people in the tech community! Whether you want to collaborate, exchange ideas, or just chat about AI, backend development, or anything tech-related, I’d love to hear from you!
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/pawan-kumar-672356327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <!-- Replace with your actual link -->
-- **GitHub**: [Pawan Kumar](https://github.com/embrake)
+- **LinkedIn**: [My Linkedin Profile](https://www.linkedin.com/in/pawan-kumar-672356327?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) <!-- Replace with your actual link -->
+- **GitHub**: [Pawan Kumar@embrake](https://github.com/embrake)
 - **Email**: aegis.invincible@gmail.com <!-- Replace with your actual email -->
 
 ---
